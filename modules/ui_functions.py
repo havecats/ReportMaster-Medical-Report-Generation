@@ -20,6 +20,8 @@ from main import *
 
 # GLOBALS
 # ///////////////////////////////////////////////////////////////
+from widgets import CustomGrip
+
 GLOBAL_STATE = False
 GLOBAL_TITLE_BAR = True
 
